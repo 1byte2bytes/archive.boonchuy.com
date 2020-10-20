@@ -9,9 +9,9 @@ title: Logoless season 1 credits
 
 [Source](https://www.youtube.com/watch?v=8jdubuXqOGA)
 
-Storyboarded by Kim Roberson
-Background design by Sun Jae Lee and Elle Michalka
-Composited by Ian Worrel
+Storyboarded by Kim Roberson\
+Background design by Sun Jae Lee and Elle Michalka\
+Composited by Ian Worrel\
 Animation by Saerom Animation
 
 “Anne’s Theme” composed by TJ Hill
