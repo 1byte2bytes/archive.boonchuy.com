@@ -2,7 +2,7 @@
 title:               'Amphibia Archive'
 tagline:             ''
 description:         'Unofficial blog aggregating the development and creation of Amphibia!'
-url:                 https://archive.boonchuy.com
+url:                 https://archive-beta.boonchuy.com
 baseurl:             ''
 paginate:            3
 permalink:           pretty
